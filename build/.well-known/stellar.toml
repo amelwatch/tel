@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBP22WFZ2SPJOTGJIN3D4SIEIHWCB26PMR2UWW7GLAFTMDYESH76VG45"
+"GC54YM47CREXBX34I73P7R7FW2OXTAQP4SLH7DXLNAXUOZUNUQCNH47R"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Nexus"
-ORG_URL="https://nexus.io/"
-ORG_DESCRIPTION="Nexus is a community-driven project with the common vision of a world inspired by innovation and responsible values, expansive technology, and the fundamental quality of connection being ubiquitous, free, and available to everyone. Our technology is designed to simplify lives, empower communities, and streamline business, while embodying the founding principles of Satoshi Nakamoto, the creator of Bitcoin."
-ORG_TWITTER="@NexusOfficial"
-ORG_LOGO="https://i.ibb.co/gy3QHfq/nexus.jpg"
-ORG_OFFICIAL_EMAIL="nexuscommunity@gmail.com"
+ORG_NAME="Telecoin"
+ORG_URL="https://www.telco.in/"
+ORG_DESCRIPTION="Telecoin is a new cryptocurrency based on the Ethereum blockchain that will be decentralized and accepted by telecom operators, therefore available to billions of users worldwide without extra registration, only using their mobile phones."
+ORG_TWITTER="@telecoin_team"
+ORG_LOGO="https://i.ibb.co/cCTcw4T/telcoin-tel-logo.png"
+ORG_OFFICIAL_EMAIL="telecoin@gmail.com"
 
 
 [[CURRENCIES]]
-code="NXS"
-issuer="GBP22WFZ2SPJOTGJIN3D4SIEIHWCB26PMR2UWW7GLAFTMDYESH76VG45"
+code="TEL"
+issuer="GC54YM47CREXBX34I73P7R7FW2OXTAQP4SLH7DXLNAXUOZUNUQCNH47R"
 anchor_asset="false"
-name="Nexus"
-desc="Nexus is a community-driven project with the common vision of a world inspired by innovation and responsible values, expansive technology, and the fundamental quality of connection being ubiquitous, free, and available to everyone. Our technology is designed to simplify lives, empower communities, and streamline business, while embodying the founding principles of Satoshi Nakamoto, the creator of Bitcoin."
+name="Telecoin"
+desc="Telecoin is a new cryptocurrency based on the Ethereum blockchain that will be decentralized and accepted by telecom operators, therefore available to billions of users worldwide without extra registration, only using their mobile phones."
 conditions=""
-image="https://i.ibb.co/gy3QHfq/nexus.jpg"
+image="https://i.ibb.co/cCTcw4T/telcoin-tel-logo.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#NXS was issued using the open and inclusive Stellar blockchain network.
+#TEL was issued using the open and inclusive Stellar blockchain network.
